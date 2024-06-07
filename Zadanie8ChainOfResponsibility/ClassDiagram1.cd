@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ErrorLogger" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrorLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="InfoLogger" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LogMessage">
+    <Position X="8" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAA=</HashCode>
+      <FileName>LogMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarningLogger" BaseTypeListCollapsed="true">
+    <Position X="3" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WarningLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Logger">
+    <Position X="6.75" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
